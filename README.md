@@ -1,1 +1,19 @@
 # CS230_TheGamingRoom_SoftwareDesignDocument
+
+    1. Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+Creative Technology Solutions has partnered with The Gaming Room for this project. The Gaming Room is a client looking to extend its current Android game app, “Draw it or Lose it,” into a multi-platform web-based game. This project aims to streamline the game’s development process and easily transition from the mobile app to a web-based platform available across multiple operating systems and platforms. 
+
+    2. What did you do particularly well in developing this documentation?
+I thoroughly compared the benefits of Linux and Windows platforms, providing insights into server choices, architectures, backend frameworks, and storage. I also highlighted the importance of security and gave detailed recommendations for each platform.
+
+    3. What about the process of working through a design document did you find helpful when developing the code?
+The design document acted as a blueprint. It helped the coding process by giving guidelines on the game's purpose and the client's needs. It made me realize the importance of preemptive thinking, which reduces the chances of errors during the development phase and optimizes the entire development process.
+
+    4. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would revisit the "Distributed Systems and Networks" section. On reflection, I could provide more detailed pros and cons of Docker and Kubernetes and delve deeper into the advantages of a containerized architecture. Another part that I would revise is my secondary Windows recommendation. I kept it as a comparison from the beginning to the end of the class. At the beginning of the course, I felt Linux was the right choice, but I needed more knowledge to base that assumption. Then, I wrote what I would've done for recommendations and did it again for the last project. If I were to recommend Windows now, it would be different in some ways.
+
+    5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+Interpreting the user's needs is important in understanding the requirements of The Gaming Room. I prioritized performance, real-time capabilities, scalability, and expansion to work on multiple platforms. The user's needs are essential as it helps ensure the software remains relevant, user-friendly, and efficient. This can lead to the client being satisfied while also delivering an excellent user experience.
+
+    6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+My initial approach to software design began with thoroughly analyzing the client's needs. I then researched the best platforms and technologies to cater to these needs. Throughout the project, consistent communication with the client would have significantly benefitted the clarity and direction of the design. Specific questions about game mechanics or program functionalities could have been promptly addressed, ensuring a smoother developmental process. This realization has taught me the value of maintaining an open communication channel with stakeholders. In future projects, I plan to employ an iterative design methodology. This approach allows for regular modifications based on feedback and fosters a collaborative environment where clients and potential users are actively involved in shaping the software's design. By seeking feedback and asking the right questions, I aim to ensure that the software always aligns with the evolving requirements and visions of the client.
